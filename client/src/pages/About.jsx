@@ -59,7 +59,7 @@ const About = () => {
               </li>
               <li>
                 <a
-                  href="https://twitter.com/fentahun360"
+                  href="https://x.com/tewodrosmengie"
                   className="text-indigo-600 flex items-center gap-3  hover:text-indigo-800 transition-colors"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -83,7 +83,7 @@ const About = () => {
               Feel free to explore, fork, or contribute to the project.
             </p>
             <a
-              href="https://github.com/fentahunM/home-hub"
+              href="https://github.com/tewodros-m/home-hub"
               className="inline-block mt-4 bg-indigo-600 text-white px-6 py-3 rounded-lg shadow hover:bg-indigo-700 transition-colors"
               target="_blank"
               rel="noopener noreferrer"
