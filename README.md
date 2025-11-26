@@ -65,7 +65,7 @@ Make sure you have the following installed on your system:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/fentahunM/home-hub.git
+   git clone https://github.com/tewodros-m/home-hub.git
    ```
 2. Navigate into the project directory:
 
